@@ -12,3 +12,4 @@ const square = (x) => {
 const add = (a, b) => {
     return a + b;
   };
+
