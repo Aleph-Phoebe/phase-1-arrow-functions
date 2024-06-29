@@ -1,6 +1,6 @@
 const divide = (a, b) => {
     if (b === 0) {
-      Error('Division by zero is not allowed');
+     new Error('Division by zero is not allowed');
     }
     return a / b;
   };
